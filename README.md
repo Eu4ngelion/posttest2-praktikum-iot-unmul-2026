@@ -16,7 +16,6 @@ Sistem menggunakan sensor MQ-2 untuk mendeteksi kebocoran gas. Jika kadar gas me
 
 ## Daftar Isi
 
-* [Daftar Isi](#daftar-isi)
 * [Deskripsi](#deskripsi)
 * [Komponen yang Digunakan](#komponen-yang-digunakan)
 * [Board Schematic](#board-schematic)
